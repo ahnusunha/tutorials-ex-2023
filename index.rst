@@ -1,9 +1,9 @@
 :og:description: 파이토치(PyTorch) 한국어 튜토리얼에 오신 것을 환영합니다. 파이토치 한국 사용자 모임은 한국어를 사용하시는 많은 분들께 PyTorch를 소개하고 함께 배우며 성장하는 것을 목표로 하고 있습니다.
 
-파이토치(PyTorch) 한국어 튜토리얼에 오신 것을 환영합니다!
+파이토치(PyTorch) 한국어 튜토리얼에 오신 것을 환영합니다! 김선희님!
 =============================================================
 
-아래 튜토리얼들이 새로 추가되었습니다.
+아래 튜토리얼들이 새로 추가되었습니다. :)
 
 * `PyTorch Distributed Series </beginner/ddp_series_intro.html?utm_source=whats_new_tutorials&utm_medium=ddp_series_intro>`__
 * `Fast Transformer Inference with Better Transformer </beginner/bettertransformer_tutorial.html?utm_source=whats_new_tutorials&utm_medium=bettertransformer>`__
