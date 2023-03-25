@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-챗봇 튜토리얼
+멋진 챗봇 튜토리얼
 ================
 **Author:** `Matthew Inkawhich <https://github.com/MatthewInkawhich>`_
   **번역**: `김진현 <https://github.com/lewha0>`_
