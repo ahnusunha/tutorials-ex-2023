@@ -3,7 +3,7 @@
 파이토치(PyTorch) 한국어 튜토리얼에 오신 것을 환영합니다!
 =============================================================
 
-아래 튜토리얼들이 새로 추가되었습니다.
+아래 튜토리얼들이 새로 추가되었습니다. :)
 
 * `PyTorch Distributed Series </beginner/ddp_series_intro.html?utm_source=whats_new_tutorials&utm_medium=ddp_series_intro>`__
 * `Fast Transformer Inference with Better Transformer </beginner/bettertransformer_tutorial.html?utm_source=whats_new_tutorials&utm_medium=bettertransformer>`__

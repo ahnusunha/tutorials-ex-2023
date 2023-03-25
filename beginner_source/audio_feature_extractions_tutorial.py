@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Audio Feature Extractions
+아주 굳 Audio Feature Extractions
 =========================
 
 ``torchaudio`` implements feature extractions commonly used in the audio
