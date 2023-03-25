@@ -40,7 +40,7 @@ class IncludeDirective(Directive):
         rel_filename, filename = env.relfn2path(self.arguments[0])
 
         try:
-            text = open(filename, encoding = 'utf8').read()
+            text = open(filename, encoding='utf8').read()
             text_no_docstring = self.docstring_regex.sub('', text, count=1)
 
             code_block = nodes.literal_block(text=text_no_docstring)
