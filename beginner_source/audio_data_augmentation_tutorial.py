@@ -17,7 +17,7 @@ import torch
 import torchaudio
 import torchaudio.functional as F
 
-print(torch.__version__)
+print(torch.__version__진동현 수정버전)
 print(torchaudio.__version__)
 
 ######################################################################
